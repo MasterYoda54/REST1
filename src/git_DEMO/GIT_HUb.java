@@ -20,4 +20,10 @@ public class GIT_HUb {
 		System.out.println("servesh 7");
 	}
 	
+	public void mom ()
+	{
+		System.out.println("Nirmala 1");
+		System.out.println("kamlesh 2");
+	}
+	
 }
