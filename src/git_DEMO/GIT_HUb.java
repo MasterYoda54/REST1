@@ -13,4 +13,11 @@ public class GIT_HUb {
 
 	}
 
+	public void newmethod ()
+	{
+		System.out.println("servesh 1");
+		System.out.println("servesh 2");
+		System.out.println("servesh 7");
+	}
+	
 }
